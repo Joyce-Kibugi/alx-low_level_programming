@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main- printssingle digit numbers
+ * main- print single digit numbers
  *
  * Return: Always (Success)
  */
