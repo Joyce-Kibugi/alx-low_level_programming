@@ -2,15 +2,14 @@
 
 /**
 *swap_int - swaps thevalues of integers
-*@b: first integer*
-@b: second integer
+*@a: first integer
+*@b: second integer
 *Return : returns nothing
 */
 
-void swap_int(int *a,int *b)
+void swap_int(int *a, int *b)
 {
-   int tmp = *a;
-
-   *a = *b;
-   *b = tmp;
+	int tmp = *a;
+       	*a = *b;
+     	*b = tmp;
 }
