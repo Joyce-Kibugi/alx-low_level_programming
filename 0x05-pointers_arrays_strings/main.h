@@ -1,5 +1,5 @@
 #ifndef MAIN_H
-3define MAIN_H
+define MAIN_H
 
 /**
 * void prototypes()
